@@ -1,5 +1,5 @@
 ## Triangulated Polygon Collision
-This is project from 2018. You can create polygons that get translated into a group of triangles. These triangles are used for collision testing. This project implements:
+This is a project from 2018. You can create polygons that get translated into a group of triangles. These triangles are used for collision testing. This project implements:
 
 - Ear Clipping triangulation
 - Separating Axis Theorem
